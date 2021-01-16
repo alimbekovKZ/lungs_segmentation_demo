@@ -1,0 +1,6 @@
+numpy==1.17.4
+albumentations==0.5.2
+streamlit==0.74.1
+torch==1.7.1
+lungs_segmentation==1.1.1
+opencv_python==4.2.0.34
