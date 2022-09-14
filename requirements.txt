@@ -3,5 +3,5 @@ torchvision==0.8.2
 numpy==1.17.4
 albumentations==0.5.2
 streamlit==0.74.1
-opencv-python==4.2.0.34
+opencv-python
 lungs_segmentation
