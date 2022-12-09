@@ -1,4 +1,4 @@
-pencv-python==4.4.0.44
+opencv-python==4.4.0.44
 torch==1.7.1
 torchvision==0.8.2
 numpy==1.17.4
