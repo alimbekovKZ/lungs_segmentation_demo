@@ -4,4 +4,3 @@ numpy==1.17.4
 albumentations==0.5.2
 streamlit==0.74.1
 lungs_segmentation
-opencv-python
