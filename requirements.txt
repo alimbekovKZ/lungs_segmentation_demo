@@ -4,4 +4,4 @@ torchvision==0.8.2
 numpy==1.19.3
 albumentations==0.5.2
 streamlit==0.74.1
-pip install git+https://github.com/alimbekovKZ/lungs_segmentation@master
+pip install git+https://github.com/alimbekovKZ/lungs_segmentation@main
