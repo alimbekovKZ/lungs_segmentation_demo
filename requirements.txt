@@ -5,4 +5,4 @@ numpy==1.17.4
 albumentations==0.5.2
 streamlit==0.74.1
 # lungs_segmentation==1.1.2
-pip install git@github.com:alimbekovKZ/lungs_segmentation.git
+pip install git+https://github.com/alimbekovKZ/lungs_segmentation.git@main
