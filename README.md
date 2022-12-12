@@ -10,7 +10,7 @@ Web app: [lungs segmentation streamlit](https://alimbekovkz-lungs-segmentation-d
 ## Run locally
 
 ```bash
-streamlit run app/app.py
+streamlit run app.py
 ```
 
 ![](https://habrastorage.org/webt/sg/zi/dt/sgzidtgitqcohmko3e7_g-f_c1k.png)
