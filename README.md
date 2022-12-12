@@ -4,7 +4,7 @@ The code for the network: https://github.com/alimbekovKZ/lungs_segmentation
 
 Train pipeline: https://github.com/alimbekovKZ/lungs_segmentation_train
 
-Web app: [https://lungssegmentation.herokuapp.com/](https://lungssegmentation.herokuapp.com/)
+Web app: [lungs segmentation streamlit](https://alimbekovkz-lungs-segmentation-demo-app-r1t0f4.streamlit.app/)
 
 
 ## Run locally
