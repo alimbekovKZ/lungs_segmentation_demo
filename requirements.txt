@@ -4,4 +4,4 @@ streamlit==1.11.1
 matplotlib==3.3.4
 torch==1.7.1
 albumentations==0.5.2
-torchvision==0.10.0
+torchvision==0.8.2
