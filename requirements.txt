@@ -1,7 +1,7 @@
-opencv-python==4.4.0.44
-torch==1.7.1
-torchvision==0.8.2
-numpy==1.17.4
+numpy==1.19.5
+opencv_python==4.5.1.48
+streamlit==1.11.1
+matplotlib==3.3.4
+torch==1.4.0
 albumentations==0.5.2
-streamlit==0.74.1
-lungs_segmentation==1.1.2
+torchvision==0.10.0
