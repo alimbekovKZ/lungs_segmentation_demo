@@ -2,6 +2,6 @@ numpy==1.19.5
 opencv_python==4.5.1.48
 streamlit==1.11.1
 matplotlib==3.3.4
-torch==1.4.0
+torch==1.7.1
 albumentations==0.5.2
 torchvision==0.10.0
